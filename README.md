@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Bixie-Dev
+
+
+# � Hi, I’m @Bixie-Dev
 - 👀 I’m interested in CMS, Blockchain, and RoR Devleopment.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on proficient, hard-working partner.
