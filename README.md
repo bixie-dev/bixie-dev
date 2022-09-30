@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Welcome+To+My+Github+Profile+⚡;&center=true&vCenter=true&pause=500&width=800&height=45" width="100%" /> 
 
+![snake gif](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 ![Bixie-Dev's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bixie-Dev&theme=xcode&custom_title=Contribution%20Graph&hide_boder=true)
 
