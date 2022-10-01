@@ -5,6 +5,12 @@
 - 🌱 I’m currently working on **Software Engineering**.
 - 💞️ I’m looking to collaborate on proficient, hard-working team.
 
+# Contact Me
+[![Skype](https://img.shields.io/badge/Skype-0077B5?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/wKcU0p6NR22a)
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TrueDev555)
+[![Telegram](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RZAuF2x3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
 ![snake gif](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
@@ -44,6 +50,7 @@
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
+    <a href="#"><img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-7952B3.svg?logo=rubyonrails&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
