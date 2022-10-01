@@ -1,5 +1,5 @@
 # Hi, 😀 I’m @Bixie-Dev
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+Here;&center=true&vCenter=true&pause=200&width=800&height=45" width="100%" /> 
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=+Full-stack+Dev+|+MERN,+Shopify,+PHP,+Ruby+on+Rails;&center=true&vCenter=true&pause=200&width=800&height=45" width="100%" /> 
 
 - 👀 I’m professional in **CMS**, **Blockchain**, and **RoR** Devleopment.
 - 🌱 I’m currently working on **Software Engineering**.
