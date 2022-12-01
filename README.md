@@ -17,9 +17,6 @@
 
 ![Bixie-Dev's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bixie-Dev&theme=xcode&custom_title=Contribution%20Graph&hide_boder=true)
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bixie-Dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=My%20Github%20Stats" alt="My Github Stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bixie-Dev&layout=compact&theme=tokyonight&count_private=true&hide_border=true&langs_count=10&custom_title=My%20Top%20Languages" alt="Top Languages"/></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 # Tech Stack
 
 > Programming languages.
@@ -89,7 +86,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-
+</>
 
  <h2 align="left" id="macropower-tech">Github Stats  </h2>
 
