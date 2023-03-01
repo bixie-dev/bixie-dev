@@ -8,11 +8,8 @@
 # Contact Me
 [![Skype](https://img.shields.io/badge/Skype-0077B5?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/wKcU0p6NR22a)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TrueDev555)
-[![Telegram](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RZAuF2x3)
+[![Discrod](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RZAuF2x3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-![snake gif](https://raw.githubusercontent.com/bixie-dev/bixie-dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/bixie-dev/bixie-dev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 ![Bixie-Dev's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bixie-Dev&theme=xcode&custom_title=Contribution%20Graph&hide_boder=true)
