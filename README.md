@@ -12,8 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 
-![Bixie-Dev's github activity graph](https://activity-graph.herokuapp.com/graph?username=bixie-dev&theme=xcode&custom_title=Contribution%20Graph&hide_boder=true)
-
 # Tech Stack
 
 > Programming languages.
