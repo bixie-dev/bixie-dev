@@ -1,4 +1,4 @@
-# Hi, 😀 I’m @Bixie
+# Hi, 😀 I’m @Bixie.
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=+Full-stack+Dev+|+MERN,+Shopify,+PHP,+Python;&center=true&vCenter=true&pause=200&width=800&height=45" width="100%" /> 
 
 - 👀 I’m professional in **CMS**, **Blockchain**, and **RoR** Devleopment.
