@@ -1,16 +1,9 @@
-# Hi, 😊 I’m @Bixie.
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=+Full-stack+Dev+|+MERN,+Shopify,+PHP,+Python;&center=true&vCenter=true&pause=200&width=800&height=45" width="100%" /> 
+# Hi, 😊 I’m DevSageAI.
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=+AI Engineer. Solidity + Ethereum Engineer. Frontend developer;&center=true&vCenter=true&pause=200&width=800&height=45" width="100%" /> 
 
-- 👀 I’m professional in **CMS**, **Blockchain**, and **RoR** Devleopment.
+- 👀 I’m professional in **Blockchain**, and **AI** Devleopment.
 - 🌱 I’m currently working on **Software Engineering**.
 - 💞️ I’m looking to collaborate on proficient, hard-working team.
-
-# Contact Me
-[![Skype](https://img.shields.io/badge/Skype-0077B5?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/wKcU0p6NR22a)
-[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TrueDev555)
-[![Discrod](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RZAuF2x3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
 
 # Tech Stack
 
