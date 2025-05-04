@@ -8,8 +8,8 @@
  <h2 align="left" id="macropower-tech">Github Stats  </h2>
 
 <div align="center">
-  <a href="https://github.com/bixie-dev">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bixie-dev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/DevSageAI">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=DevSageAI&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bixie-dev&layout=compact&langs_count=7&theme=gruvbox" />
   </a>
 </div>
@@ -20,7 +20,7 @@
 
 
 <!---
-Bixie-Dev/Bixie-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevSageAI/DevSageAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
