@@ -17,7 +17,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=bixie-dev&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
 
-my gamil: simeunovica39@gmail.com
+If you hire me. Your project will be completed and satisfaction with you.
+Let's contact (mousebraltop@gmail.com)
 
 <!---
 DevSageAI/DevSageAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
