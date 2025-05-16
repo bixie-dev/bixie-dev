@@ -18,7 +18,7 @@
 </div>
 
 If you hire me. Your project will be completed and satisfaction with you.
-Let's contact (mousebraltop@gmail.com)
+Let's contact
 
 <!---
 DevSageAI/DevSageAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
